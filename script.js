@@ -22,7 +22,9 @@ $(function () {
   }
   changingTime();
 
-
+$(".saveBtn").on('click', function() {
+  console.log('click');
+})
  
 
   // TODO: Add a listener for click events on the save button. This code should
