@@ -1,5 +1,5 @@
 # Module 5 Challenge
-Workday SCheduler
+Workday Scheduler
 
 ## Description
 
@@ -13,3 +13,4 @@ This application is a workday scheduler. It shows the current date at the top of
 
 
 ## Link
+https://haleytrimpert.github.io/work-day-scheduler/
